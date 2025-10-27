@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotel xmlns="http://tempuri.org/Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4">
+		<Name>Plaza Hotel and Casino</Name>
+		<Name>Plaza Hotel</Name>
+		<Address>
+			<Number>1</Number>
+			<Street>N. Main St</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Comfort Inn and Suites</Name>
+		<Phone>650-589-7100</Phone>
+		<Address>
+			<Number>121</Number>
+			<Street>E. Grand Ave</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94080</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Studio 6 Suites</Name>
+		<Phone>310-742-5869</Phone>
+		<Address>
+			<Number>5101</Number>
+			<Street>W. Century Blvd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90304</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Silver Cloud Hotel</Name>
+		<Phone>206-204-9800</Phone>
+		<Address>
+			<Number>1046</Number>
+			<Street>1st Ave S</Street>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98134</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Seagull Beachfront Inn</Name>
+		<Phone>541-994-2948</Phone>
+		<Address>
+			<Number>1511</Number>
+			<Street>NW Harbor Ave</Street>
+			<City>Lincoln City</City>
+			<State>OR</State>
+			<Zip>97367</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Marriott's Grande Vista</Name>
+		<Phone>407-238-7676</Phone>
+		<Address>
+			<Number>5925</Number>
+			<Street>Avenida Vista</Street>
+			<City>Orlando</City>
+			<State>FL</State>
+			<Zip>32821</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Double Tree</Name>
+		<Phone>617-822-3600</Phone>
+		<Address>
+			<Number>240</Number>
+			<Street>Mt. Vernon St</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02125</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>evo Hotel Salt Lake</Name>
+		<Phone>385-386-8585</Phone>
+		<Address>
+			<Number>660</Number>
+			<Street>S. 400 W</Street>
+			<City>Salt Lake City</City>
+			<State>UT</State>
+			<Zip>84101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.3">
+		<Name>Rodeway Inn Old Town Scottsdale</Name>
+		<Phone>480-676-5351</Phone>
+		<Address>
+			<Number>2934</Number>
+			<Street>N. Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>84101</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
