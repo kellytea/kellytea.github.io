@@ -23,7 +23,7 @@
 			<Zip>89101</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="3.8">
+	<Hotel>
 		<Name>Comfort Inn and Suites</Name>
 		<Phone>650-589-7100</Phone>
 		<Address NearestAirport="San Francisco International">
@@ -56,7 +56,7 @@
 			<Zip>98134</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="3.8">
+	<Hotel>
 		<Name>Seagull Beachfront Inn</Name>
 		<Phone>541-994-2948</Phone>
 		<Address NearestAirport="Portland International">
@@ -89,7 +89,7 @@
 			<Zip>02125</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.3">
+	<Hotel>
 		<Name>evo Hotel Salt Lake</Name>
 		<Phone>385-386-8585</Phone>
 		<Address NearestAirport="Salt Lake City International">
@@ -108,7 +108,7 @@
 			<Street>N. Scottsdale Rd</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
-			<Zip>85251</Zip>
+			<Zip>84101</Zip>
 		</Address>
 	</Hotel>
 </Hotels>
