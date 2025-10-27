@@ -31,7 +31,7 @@
 							</xs:element>
 						</xs:sequence>
 						<!--Optional Attribute-->
-						<xs:attribute name="Rating" type="xs:integer" use="optional"/>
+						<xs:attribute name="Rating" type="xs:double" use="optional"/>
 					</xs:complexType>
 				</xs:element>
             </xs:sequence>
